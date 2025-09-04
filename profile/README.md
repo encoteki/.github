@@ -14,12 +14,13 @@ Join us in making a meaningful difference while enjoying the benefits of being p
 
 ## Tech Stacks
 
-
 ### Frontend
+[Repo](https://github.com/encoteki/nextjs-main)
 
 ### Backend
 
 ### Smart Contracts
+[Repo](https://github.com/encoteki/scaffold-lisk-encoteki)
 
 ## Learn more about Encoteki by visit
 
